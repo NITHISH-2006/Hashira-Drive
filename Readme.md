@@ -1,4 +1,3 @@
-```markdown
 # Shamir's Secret Sharing — Polynomial Constant Term Solver
 
 **Language:** Java | **Algorithm:** Lagrange Interpolation | **JDK:** 8+
